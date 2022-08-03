@@ -61,9 +61,9 @@ De forma geral, a frente de UX possibilita que os usuários entendam quais são 
 
 ## Piramide de uma boa experiencia
 
-![image](https://user-images.githubusercontent.com/52088444/182732043-c7810edf-737d-40c2-a6ea-c4d896589c9e.png)
-
 ![image](https://user-images.githubusercontent.com/52088444/182732460-70bdce50-8a07-441f-8e58-9f0e643a67e4.png)
+
+
 
 ## referencias
 
