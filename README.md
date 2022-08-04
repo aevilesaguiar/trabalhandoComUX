@@ -268,6 +268,10 @@ Criando roteiro para entrevista:
 Durante a entrevista grave audios, videos, imprima o ermo de consentimento,  se for remoto, faça a pergunta para ele que ele está sendo gravado, e que tudo será usado apenas para pesquisa. Quantidade de entrevistas de 5 a 8 pessoas. Considerando o horário das 10 as 13. duração de 30 a 40 minutos. Anote tudo que você puder. 
 
 
+Análise dados qualitativos
+
+
+
 
 ## referencias
 
