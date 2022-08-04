@@ -220,6 +220,52 @@ Pensar qual o objetivo da pesquisa, e quais perguntas fazer, e enviar para o mai
 Ferramentas muito utilizadas: google forms, e serveyMonkey
 www.surveymonkey.com
 
+Quando criamos o formulario online? 
+- para descobrir:
+- quem é o seu publico alvo;
+- perfil demografico;
+- quais ferramnentas utilizadas para resolver o problemas?
+- qual a frequencia de uso das ferramentas.
+
+Como criar um formulario online:
+- qual o objetivo? 
+- - > questionario (perguntas objetivas)
+- divulgar (descobrir o grupo adequado para o determinado objetivo, )
+- - > resposta
+- resultados
+
+## Entrevista ( PESQUISA QUALITATIVA)
+
+A pesquisa ajuda na falta de informação. A pesquisa nos norteiam para ter entendimento, quais as necessidades e dores do usuario. Como criar algo rentável e que também resolva as dores do ususario. Com a entrevista podemos conduzir o usuario as respostas certas, analise seu usuario, estimule ele a falarm pistas sobre o comportamento. O foco não é você e sim seu usuario, para que ele possa falar sobre o seu problema. Não interrompa seu usuario, quanto mais ele falar mais respostas você terá. 
+
+Temos que mistura pesquis qualitativa e quantiva para termos a melhor solução,
+
+Como recrutar usuarios para entrevistas?
+Modelagem de usuarios:
+1 - QUEM SÃO OS USUARIOS DO PROJETO
+2 - QUAIS SÃO SEUS OBJETIVOS
+3 - QUAIS TAREFAS DESEMPENHAM
+
+Profissão, idade, genero, objetivo principal, o que faz da vida. ( podemos verificar tudo isso através de um formulário inline)
+
+Onde encontrar os usuarios?
+terceirização, engenharia social, base de dados do cliente, instituições de ensino, locais publicos, anuncios;
+
+Condução da entresvista?
+podemos conduzi-las de mairas diferentes
+- entrevista não estruturada ->
+- semi estruturada-> já tem um roteiro de sugestão, e perguntas pre definidas, mas o entrevistador pode alterar as peguntas. Inicia-se com uma pergunta generica para quebra o gelo, e depois iniciar as perguntas. Precisa ter um entrevistador, um observador que anota as respostas gestos do usuario e apontamento além do fotografo; (nem sempre temos as tres pessoas disponiveis, senão tivermos podemos gravar, pois ela é uma documentação)
+- entrevista estruturada->
+
+Criando roteiro para entrevista:
+
+- Objetivo (por que gostariamos de aplicar esta pesquisa?)
+- apresentação{quem sou, o que fazemos, qual o objetivo da entrevista}
+- introdução(conte sobre você sua profissão, faça perguntas relevantes, deixe claro que queira conhecê-lo)
+- Perguntas( perguntas relevante ao tema. Ex: como, o que, por que , conteme- sobre..., seja curioso, use as perguntas para entender o comportamento do usuario)
+- Agradecimento: agradeça pela participação e peça para manter o contato, pergunte qual foi a experiencia da entrevista.
+
+Durante a entrevista grave audios, videos, imprima o ermo de consentimento,  se for remoto, faça a pergunta para ele que ele está sendo gravado, e que tudo será usado apenas para pesquisa. Quantidade de entrevistas de 5 a 8 pessoas. Considerando o horário das 10 as 13. duração de 30 a 40 minutos. Anote tudo que você puder. 
 
 
 
